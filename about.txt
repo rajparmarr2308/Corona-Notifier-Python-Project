@@ -1,0 +1,5 @@
+This is Corona Virus Notification Project .
+
+Data in this Project is Scrapped by https://www.mohfw.gov.in/ website.
+
+sms4india api is used to send message to mobile in this project.
